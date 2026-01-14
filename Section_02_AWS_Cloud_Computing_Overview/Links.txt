@@ -1,2 +1,18 @@
 The NIST Definition of Cloud Computing
 https://csrc.nist.gov/pubs/sp/800/145/final
+
+AWS - Regions and Availability Zones
+https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+
+AWS - SDKs and Tools
+https://aws.amazon.com/tools/
+
+AWS - Cloud9
+https://aws.amazon.com/cloud9/
+
+AWS - Truested Advisor
+https://aws.amazon.com/premiumsupport/technology/trusted-advisor/
+
+AWS - Console
+https://aws.amazon.com/console/
+
